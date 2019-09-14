@@ -1,4 +1,4 @@
-package xyz.jguru.springdemo;
+package com.luv2code.springdemo;
 
 public class TrackCoach implements Coach {
 
